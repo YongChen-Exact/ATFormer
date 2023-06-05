@@ -1,7 +1,7 @@
 # ATFormer
 The codes for the work "ATFormer: Advanced transformer for medical image segmentation".
 
-![ATFormer](img\Architecture_overview.jpg?raw=true)
+![ATFormer](img/Architecture_overview.jpg?raw=true)
 
 Parts of codes are borrowed from [TransUNet](https://github.com/Beckschen/TransUNet). For detailed configuration of the dataset, please refer to [TransUNet](https://github.com/Beckschen/TransUNet).
 
