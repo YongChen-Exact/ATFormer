@@ -36,12 +36,12 @@ This repository makes liberal use of code from:
 
 ## Citation
 
-@article{chen2023atformer,
-  title={ATFormer: Advanced transformer for medical image segmentation},
-  author={Chen, Yong and Lu, Xuesong and Xie, Qinlan},
-  journal={Biomedical Signal Processing and Control},
-  volume={85},
-  pages={105079},
-  year={2023},
-  publisher={Elsevier}
+@article{chen2023atformer,  
+  title={ATFormer: Advanced transformer for medical image segmentation},  
+  author={Chen, Yong and Lu, Xuesong and Xie, Qinlan},  
+  journal={Biomedical Signal Processing and Control},  
+  volume={85},  
+  pages={105079},  
+  year={2023},  
+  publisher={Elsevier}  
 }
